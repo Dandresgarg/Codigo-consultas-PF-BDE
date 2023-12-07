@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "tiendas_de_mascotas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3116" } },
+"features": [
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Pet Shop Lalaland", "LATITUD": 4.64032764, "LONGITUD": -74.07132 }, "geometry": { "type": "Point", "coordinates": [ 1000686.592207676847465, 1004879.65683679364156 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Pet Shop JC", "LATITUD": 4.63954683, "LONGITUD": -74.0696662 }, "geometry": { "type": "Point", "coordinates": [ 1000870.09274972777348, 1004793.315446450840682 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Animal Pride Pet Store", "LATITUD": 4.63873936, "LONGITUD": -74.0698377 }, "geometry": { "type": "Point", "coordinates": [ 1000851.06633456191048, 1004704.023757554357871 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "La Boutique Pet Shop", "LATITUD": 4.64083015, "LONGITUD": -74.0666767 }, "geometry": { "type": "Point", "coordinates": [ 1001201.79060147004202, 1004935.230827928404324 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "TAFI", "LATITUD": 4.64379522, "LONGITUD": -74.073364 }, "geometry": { "type": "Point", "coordinates": [ 1000459.790515077183954, 1005263.105333584593609 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Laika Mascotas", "LATITUD": 4.63920423, "LONGITUD": -74.0624702 }, "geometry": { "type": "Point", "coordinates": [ 1001668.53987478709314, 1004755.44324664294254 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Ladrilandia Pet Shop", "LATITUD": 4.64025838, "LONGITUD": -74.0632505 }, "geometry": { "type": "Point", "coordinates": [ 1001581.957643746747635, 1004872.010144622880034 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Mascotízate Pet Shop", "LATITUD": 4.62757196, "LONGITUD": -74.0727202 }, "geometry": { "type": "Point", "coordinates": [ 1000531.229887213092297, 1003469.113076991401613 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Animarket Pet Shop y Veterinaria", "LATITUD": 4.62410795, "LONGITUD": -74.0749738 }, "geometry": { "type": "Point", "coordinates": [ 1000281.17703219759278, 1003086.055946335778572 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Pet Store Marte", "LATITUD": 4.62147806, "LONGITUD": -74.0714153 }, "geometry": { "type": "Point", "coordinates": [ 1000676.035357069806196, 1002795.240803131484427 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Mimados mascotas petshop", "LATITUD": 4.64274029, "LONGITUD": -74.0756152 }, "geometry": { "type": "Point", "coordinates": [ 1000210.008605848415755, 1005146.448120342567563 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Puppis", "LATITUD": 4.6406505, "LONGITUD": -74.0688468 }, "geometry": { "type": "Point", "coordinates": [ 1000961.010113341151737, 1004915.361470318050124 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Pet Senze", "LATITUD": 4.64847529, "LONGITUD": -74.0671612 }, "geometry": { "type": "Point", "coordinates": [ 1001148.022915575536899, 1005780.641889156657271 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "MR VETS & PETS", "LATITUD": 4.64571634, "LONGITUD": -74.0649212 }, "geometry": { "type": "Point", "coordinates": [ 1001396.570516227278858, 1005475.556934578344226 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Puppylove Colombia", "LATITUD": 4.64602017, "LONGITUD": -74.0649809 }, "geometry": { "type": "Point", "coordinates": [ 1001389.947397023788653, 1005509.154211992165074 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Pet And Town", "LATITUD": 4.64647872, "LONGITUD": -74.0732128 }, "geometry": { "type": "Point", "coordinates": [ 1000476.559048698749393, 1005559.851178985787556 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Artimascotas", "LATITUD": 4.65841869, "LONGITUD": -74.0661316 }, "geometry": { "type": "Point", "coordinates": [ 1001262.24161674734205, 1006880.200097274035215 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "AM Mascotas", "LATITUD": 4.66235758, "LONGITUD": -74.0727672 }, "geometry": { "type": "Point", "coordinates": [ 1000525.99160202674102, 1007315.760500160162337 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Olympus High Level Dogs", "LATITUD": 4.6638907, "LONGITUD": -74.0622179 }, "geometry": { "type": "Point", "coordinates": [ 1001696.477395793539472, 1007485.312351767555811 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Animals Tienda Calle 73", "LATITUD": 4.66107489, "LONGITUD": -74.0623788 }, "geometry": { "type": "Point", "coordinates": [ 1001678.625079031568021, 1007173.935433945734985 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "CEBA - Calle 72", "LATITUD": 4.66191319, "LONGITUD": -74.0652291 }, "geometry": { "type": "Point", "coordinates": [ 1001362.371137068606913, 1007266.628997706109658 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Industrias Argos (Pet´s Shop)", "LATITUD": 4.65849383, "LONGITUD": -74.066505 }, "geometry": { "type": "Point", "coordinates": [ 1001220.817016638931818, 1006888.509101366624236 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Buddy Mascotas Col", "LATITUD": 4.65363597, "LONGITUD": -74.0695841 }, "geometry": { "type": "Point", "coordinates": [ 1000879.18448609195184, 1006351.313923795591109 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "Fenris Pet Shop", "LATITUD": 4.62034282, "LONGITUD": -74.07481 }, "geometry": { "type": "Point", "coordinates": [ 1000299.36050492071081, 1002669.702589143416844 ] } },
+{ "type": "Feature", "properties": { "TIPO": "TIENDAS DE MASCOTAS", "NOMBRE": "DogKat", "LATITUD": 4.63492963, "LONGITUD": -74.0753449 }, "geometry": { "type": "Point", "coordinates": [ 1000239.993272787891328, 1004282.733166047022678 ] } }
+]
+}

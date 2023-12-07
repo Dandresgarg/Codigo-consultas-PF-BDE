@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "HOSPITAL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "HOSPITAL LA PERSEVERANCIA ", "LATITUD": 4.6188274791946498, "LONGITUD": -74.065574292754249 }, "geometry": { "type": "Point", "coordinates": [ -74.065574292754249, 4.61882747919465 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "EPS SANITAS TEUSAQUILLO CENTRO MEDICO", "LATITUD": 4.6196505440915976, "LONGITUD": -74.070873836893981 }, "geometry": { "type": "Point", "coordinates": [ -74.070873836893981, 4.619650544091598 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "HOSPITAL UNIVERSITARIO SAN IGNACIO", "LATITUD": 4.6281310052822144, "LONGITUD": -74.064385588665317 }, "geometry": { "type": "Point", "coordinates": [ -74.064385588665317, 4.628131005282214 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "HOSPITAL UNIVERSITARIO SAN IGNACIO SEDE CONSULTO", "LATITUD": 4.6290962952843557, "LONGITUD": -74.067068293931939 }, "geometry": { "type": "Point", "coordinates": [ -74.067068293931939, 4.629096295284356 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "CENTRO DE SALUD COMPENSAR CALLE 42", "LATITUD": 4.6297464977247387, "LONGITUD": -74.067175450205042 }, "geometry": { "type": "Point", "coordinates": [ -74.067175450205042, 4.629746497724739 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "CLINICA NUESTRA SEÑORA DEL PILAR", "LATITUD": 4.6279706774057976, "LONGITUD": -74.068293105515536 }, "geometry": { "type": "Point", "coordinates": [ -74.068293105515536, 4.627970677405798 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "HOSPITAL MILITAR CENTRAL DE BOGOTA", "LATITUD": 4.6342741413579489, "LONGITUD": -74.062307034796348 }, "geometry": { "type": "Point", "coordinates": [ -74.062307034796348, 4.634274141357949 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "CLINICA DE MARLY", "LATITUD": 4.6366616012990534, "LONGITUD": -74.065480118156259 }, "geometry": { "type": "Point", "coordinates": [ -74.065480118156259, 4.636661601299053 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "UNIDAD DE SERVICIOS DE SALUD CHAPINERO", "LATITUD": 4.6536486799053449, "LONGITUD": -74.065656946605898 }, "geometry": { "type": "Point", "coordinates": [ -74.065656946605898, 4.653648679905345 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "UNIDAD MEDICA CHAPINERO POLICIA NACIONAL", "LATITUD": 4.6540468823139776, "LONGITUD": -74.063131166029407 }, "geometry": { "type": "Point", "coordinates": [ -74.063131166029407, 4.654046882313978 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "HOSPITAL INFANTIL UNIVERSITARIO SAN JOSE", "LATITUD": 4.6647435275837674, "LONGITUD": -74.078580568394344 }, "geometry": { "type": "Point", "coordinates": [ -74.078580568394344, 4.664743527583767 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "CLINICA NUEVA", "LATITUD": 4.6342456882806857, "LONGITUD": -74.070933400856219 }, "geometry": { "type": "Point", "coordinates": [ -74.070933400856219, 4.634245688280686 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "CLINICA DE ESPECIALIDADES QUIRURJICAS", "LATITUD": 4.6380647037898513, "LONGITUD": -74.069256332207289 }, "geometry": { "type": "Point", "coordinates": [ -74.069256332207289, 4.638064703789851 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "CLINICA PALERMO", "LATITUD": 4.6361613567527664, "LONGITUD": -74.073896492424439 }, "geometry": { "type": "Point", "coordinates": [ -74.073896492424439, 4.636161356752766 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "CLINICA MAGDALENA", "LATITUD": 4.6272080407299967, "LONGITUD": -74.069187813697511 }, "geometry": { "type": "Point", "coordinates": [ -74.069187813697511, 4.627208040729997 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "CLINICA MATERNO INFANTIL EUSALUD", "LATITUD": 4.642457560187637, "LONGITUD": -74.068847682582572 }, "geometry": { "type": "Point", "coordinates": [ -74.068847682582572, 4.642457560187637 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "CAFAM CENTRO DE SALUD", "LATITUD": 4.6389864577682536, "LONGITUD": -74.06846538295315 }, "geometry": { "type": "Point", "coordinates": [ -74.06846538295315, 4.638986457768254 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "CENTRO MEDICO SANITAS SEDE GALERIAS", "LATITUD": 4.6393439678790571, "LONGITUD": -74.074646900958484 }, "geometry": { "type": "Point", "coordinates": [ -74.074646900958484, 4.639343967879057 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "CAFAM CALLE 48 CENTRO MEDICO", "LATITUD": 4.6357727499541852, "LONGITUD": -74.066237677208093 }, "geometry": { "type": "Point", "coordinates": [ -74.066237677208107, 4.635772749954185 ] } },
+{ "type": "Feature", "properties": { "TIPO": "HOSPITAL", "NOMBRE": "SALUD TOTAL CENTRO DE SALUD", "LATITUD": 4.6373517484317546, "LONGITUD": -74.067012531501206 }, "geometry": { "type": "Point", "coordinates": [ -74.067012531501206, 4.637351748431755 ] } }
+]
+}
